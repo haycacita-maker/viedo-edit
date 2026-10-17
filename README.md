@@ -1,8 +1,12 @@
 # Conexión con el Alma
 
-[Descargar versión 7 (MP4, 36 MB)](entrega/Conexion_con_el_Alma_v7.mp4)
+[Descargar versión 4K (MP4, 95 MB)](entrega/Conexion_con_el_Alma_4K.mp4)
 
-Video vertical 9:16, 720 × 1280, 30 fps, duración 1:58.
+[Versión ligera 720p (MP4, 36 MB)](entrega/Conexion_con_el_Alma_v7.mp4)
+
+Video vertical 9:16, **2160 × 3840**, 30 fps, duración 1:58.
+
+Ampliación a 4K del montaje de 720p, con subtítulos y tarjetas generados de nuevo a resolución 4K. Audio de la versión 7 conservado sin recodificación. La ampliación no recupera detalle ausente en las grabaciones.
 
 - Subtítulos más pequeños, con resaltado de la palabra pronunciada.
 - Nueve rótulos animados inspirados en los reels de @soykatapuerta: formas redondeadas violetas, borde lila y palabras clave en turquesa. Ocupan aproximadamente un 75 % menos de área que las tarjetas de la versión 4.
