@@ -1,9 +1,16 @@
 # Conexión con el Alma
 
-[Descargar montaje previo (MP4, 22 MB)](entrega/Conexion_con_el_Alma_previo.mp4)
+[Descargar versión 2 (MP4, 37 MB)](entrega/Conexion_con_el_Alma_v2.mp4)
 
-Video vertical de 720 × 1280, duración 1:58. Incluye recorte de silencios, los tres videos principales, voces en off, videos de apoyo, títulos y música instrumental suave.
+Versión revisada: video vertical 9:16, 720 × 1280, 30 fps, duración 1:58.
 
-Es una versión previa: los subtítulos dinámicos sincronizados siguen pendientes.
+- Ocho transiciones breves entre los bloques y los videos de apoyo.
+- Eliminados los títulos añadidos en la versión previa.
+- Subtítulos incrustados con resaltado de la palabra activa.
+- Reducción suave de ruido, ecualización y compresión de voz; música a menor volumen.
+
+[Subtítulos editables en SRT](entrega/Conexion_con_el_Alma_v2.srt)
 
 Para descargar desde GitHub, abre el MP4 y pulsa **Download raw file** (icono de descarga).
+
+[Montaje previo](entrega/Conexion_con_el_Alma_previo.mp4)
