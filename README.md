@@ -1,6 +1,8 @@
 # Conexión con el Alma
 
-[Descargar versión 4K (MP4, 95 MB)](entrega/Conexion_con_el_Alma_4K.mp4)
+[Descargar versión 4K actualizada (MP4, 91 MB)](entrega/Conexion_con_el_Alma_4K_actualizado.mp4)
+
+[Versión 4K anterior](entrega/Conexion_con_el_Alma_4K.mp4)
 
 [Versión ligera 720p (MP4, 36 MB)](entrega/Conexion_con_el_Alma_v7.mp4)
 
@@ -11,7 +13,8 @@ Ampliación a 4K del montaje de 720p, con subtítulos y tarjetas generados de nu
 - Subtítulos más pequeños, con resaltado de la palabra pronunciada.
 - Nueve rótulos animados inspirados en los reels de @soykatapuerta: formas redondeadas violetas, borde lila y palabras clave en turquesa. Ocupan aproximadamente un 75 % menos de área que las tarjetas de la versión 4.
 - Movimiento coordinado en las nueve tarjetas: despliegue con rebote leve, subrayado que se dibuja al pronunciar la palabra clave y salida suave.
-- Tres fotos incorporadas a las voces en off con movimiento suave y fundidos.
+- Se incorporaron las tres fotos originales del archivo RAR: collage de meditación, grupo en salón y grupo al aire libre. Encuadre 9:16 que conserva a todas las personas, con fondo desenfocado cuando hace falta.
+- El nuevo video sustituye las tomas repetidas de la segunda voz en off. Los fundidos conservan los tiempos del montaje musical.
 - Música instrumental original de piano suave y base ambiental cálida, con cambios armónicos y acentos sincronizados con las ocho transiciones principales y los fundidos de fotos.
 - Mezcla con reducción automática de la música durante la voz: nivel final de −15,96 LUFS y pico verdadero de −3,10 dBTP.
 
