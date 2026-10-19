@@ -1,10 +1,12 @@
-# Fashion Reel Edit
+# Fashion Reel — BY CATA YEPES
 
-[Descargar reel de moda (MP4, 9 MB)](entrega/Fashion_Reel_Edit_1080p.mp4)
+[Descargar versión ampliada de 45 segundos (MP4, 34 MB)](entrega/Fashion_Reel_BY_CATA_YEPES_45s.mp4)
 
-10 segundos · 1080 × 1920 · 9:16 · 30 fps. Música instrumental original minimal house a 120 BPM, cambios de velocidad, transición de barrido y destello breve. Voz original seleccionada para confirmar disponibilidad en café y blanco, con atenuación de −6 dB antes de la mezcla y reducción de música durante la voz. Color cálido y texto final con entrada suave.
+1080 × 1920 · 9:16 · 30 fps. Incluye la explicación completa del video original, con las pausas largas recortadas. Subtítulos dinámicos en frases cortas, resaltado de la palabra pronunciada y el nombre de la tienda confirmado por la usuaria: BY CATA YEPES.
 
-El archivo fuente no muestra la espalda con cordones; se utiliza el giro lateral disponible. Verificados 300 fotogramas, audio completo de 10 segundos y decodificación sin errores.
+Música minimal house original a 120 BPM con reducción de volumen durante la voz, color cálido y cierre con «Disponible en Café y Blanco». Verificados 1350 fotogramas, 45 segundos de audio y decodificación completa sin errores.
+
+[Versión anterior de 10 segundos](entrega/Fashion_Reel_Edit_1080p.mp4)
 
 Para descargar, abre el MP4 y pulsa **Download raw file**.
 
