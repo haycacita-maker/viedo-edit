@@ -1,10 +1,12 @@
 # Fashion Reel — BY CATA YEPES
 
-[Descargar versión ampliada de 45 segundos (MP4, 34 MB)](entrega/Fashion_Reel_BY_CATA_YEPES_45s.mp4)
+[Descargar versión con audio limpio (MP4, 34 MB)](entrega/Fashion_Reel_BY_CATA_YEPES_limpio.mp4)
+
+[Versión anterior con música](entrega/Fashion_Reel_BY_CATA_YEPES_45s.mp4)
 
 1080 × 1920 · 9:16 · 30 fps. Incluye la explicación completa del video original, con las pausas largas recortadas. Subtítulos dinámicos en frases cortas, resaltado de la palabra pronunciada y el nombre de la tienda confirmado por la usuaria: BY CATA YEPES.
 
-Música minimal house original a 120 BPM con reducción de volumen durante la voz, color cálido y cierre con «Disponible en Café y Blanco». Verificados 1350 fotogramas, 45 segundos de audio y decodificación completa sin errores.
+Se retiró el rótulo BY CATA YEPES del inicio y la pista musical sintetizada. Voz original con limpieza suave, subtítulos dinámicos, color cálido y cierre con «Disponible en Café y Blanco». Verificados 1350 fotogramas, 45 segundos de audio y decodificación completa sin errores.
 
 [Versión anterior de 10 segundos](entrega/Fashion_Reel_Edit_1080p.mp4)
 
