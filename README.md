@@ -16,6 +16,10 @@ Para descargar, abre el MP4 y pulsa **Download raw file**.
 
 # Conexión con el Alma
 
+[Descargar versión 4K con el mensaje «¡Certifícate como Coach!»](entrega/Conexion_con_el_Alma_hook_4K.mp4)
+
+El gráfico original aparece en tres momentos: apertura, presentación de la formación y llamada final. El encuadre completo se reduce suavemente hacia arriba para reservar una zona inferior al mensaje, sin superponerlo a las personas ni al material de apoyo. Se mantienen los subtítulos y el audio; se sustituyen las tres tarjetas que coincidían con el nuevo gráfico.
+
 [Descargar versión 4K actualizada (MP4, 91 MB)](entrega/Conexion_con_el_Alma_4K_actualizado.mp4)
 
 [Versión 4K anterior](entrega/Conexion_con_el_Alma_4K.mp4)
@@ -27,8 +31,8 @@ Video vertical 9:16, **2160 × 3840**, 30 fps, duración 1:58.
 Ampliación a 4K del montaje de 720p, con subtítulos y tarjetas generados de nuevo a resolución 4K. Audio de la versión 7 conservado sin recodificación. La ampliación no recupera detalle ausente en las grabaciones.
 
 - Subtítulos más pequeños, con resaltado de la palabra pronunciada.
-- Nueve rótulos animados inspirados en los reels de @soykatapuerta: formas redondeadas violetas, borde lila y palabras clave en turquesa. Ocupan aproximadamente un 75 % menos de área que las tarjetas de la versión 4.
-- Movimiento coordinado en las nueve tarjetas: despliegue con rebote leve, subrayado que se dibuja al pronunciar la palabra clave y salida suave.
+- Rótulos animados inspirados en los reels de @soykatapuerta: formas redondeadas violetas, borde lila y palabras clave en turquesa. Ocupan aproximadamente un 75 % menos de área que las tarjetas de la versión 4.
+- Movimiento coordinado en las tarjetas: despliegue con rebote leve, subrayado que se dibuja al pronunciar la palabra clave y salida suave.
 - Se incorporaron las tres fotos originales del archivo RAR: collage de meditación, grupo en salón y grupo al aire libre. Encuadre 9:16 que conserva a todas las personas, con fondo desenfocado cuando hace falta.
 - El nuevo video sustituye las tomas repetidas de la segunda voz en off. Los fundidos conservan los tiempos del montaje musical.
 - Música instrumental original de piano suave y base ambiental cálida, con cambios armónicos y acentos sincronizados con las ocho transiciones principales y los fundidos de fotos.
