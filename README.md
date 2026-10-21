@@ -1,3 +1,20 @@
+# Lunares + Denim — Reel de producto
+
+[Descargar video vertical 1080p](entrega/Lunares_y_Denim_Reel_1080p.mp4)
+
+40 segundos · 1080 × 1920 · 30 fps. Montaje de nueve planos del video IMG_6138, con ocho transiciones centradas en pulsos de una pista de 108 BPM. Hook animado con tipografía serif y sans serif, paleta crema/café/azul denim y rótulos breves de producto.
+
+Banda sonora instrumental «Beauty Flow», de Kevin MacLeod. El audio ambiente de la grabación se sustituyó por la pista musical. Los créditos están incluidos al cierre y en el archivo siguiente para la descripción de la publicación.
+
+[Créditos musicales para copiar al publicar](entrega/Lunares_y_Denim_Creditos.txt)
+
+Beauty Flow — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/
+Se utilizó un extracto con volumen ajustado y fundidos.
+
+Para descargar, abre el MP4 y pulsa **Download raw file**.
+
+---
+
 # Fashion Reel — BY CATA YEPES
 
 [Descargar versión con audio limpio (MP4, 34 MB)](entrega/Fashion_Reel_BY_CATA_YEPES_limpio.mp4)
