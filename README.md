@@ -1,5 +1,9 @@
 # Lunares + Denim — Reel de producto
 
+[Descargar nueva versión con música de club / moda](entrega/Lunares_y_Denim_Moda_1080p.mp4)
+
+Versión actualizada: 37 segundos, banda sonora electrónica «Ethernight Club» a 117 BPM. Montaje y rótulos ajustados al nuevo ritmo. [Créditos para publicar](entrega/Lunares_y_Denim_Moda_Creditos.txt).
+
 [Descargar video vertical 1080p](entrega/Lunares_y_Denim_Reel_1080p.mp4)
 
 40 segundos · 1080 × 1920 · 30 fps. Montaje de nueve planos del video IMG_6138, con ocho transiciones centradas en pulsos de una pista de 108 BPM. Hook animado con tipografía serif y sans serif, paleta crema/café/azul denim y rótulos breves de producto.
