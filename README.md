@@ -16,6 +16,10 @@ Para descargar, abre el MP4 y pulsa **Download raw file**.
 
 # Conexión con el Alma
 
+[Descargar versión 4K con ritmo más ágil (1,12×)](entrega/Conexion_con_el_Alma_hook_4K_agil.mp4)
+
+Duración aproximada: 1:46. Velocidad aumentada un 12 %, conservando el tono de la voz. Subtítulos, gráfico, transiciones y música acelerados de forma conjunta para mantener su sincronización.
+
 [Descargar versión 4K con el mensaje «¡Certifícate como Coach!»](entrega/Conexion_con_el_Alma_hook_4K.mp4)
 
 El gráfico original aparece en tres momentos: apertura, presentación de la formación y llamada final. El encuadre completo se reduce suavemente hacia arriba para reservar una zona inferior al mensaje, sin superponerlo a las personas ni al material de apoyo. Se mantienen los subtítulos y el audio; se sustituyen las tres tarjetas que coincidían con el nuevo gráfico.
