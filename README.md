@@ -1,5 +1,9 @@
 # Lunares + Denim — Reel de producto
 
+[Descargar versión con Light Wash Cargo](entrega/Lunares_y_Denim_Light_Wash_Cargo.mp4)
+
+Versión actual: música proporcionada por la usuaria, «Light_Wash_Cargo.mp3». Extracto desde 0:09,44, con fundido final y nivel ajustado. Montaje y rótulos sincronizados a 116 BPM; duración aproximada de 37 segundos, 1080 × 1920, 30 fps. Se retiró el crédito de la pista anterior.
+
 [Descargar nueva versión con música de club / moda](entrega/Lunares_y_Denim_Moda_1080p.mp4)
 
 Versión actualizada: 37 segundos, banda sonora electrónica «Ethernight Club» a 117 BPM. Montaje y rótulos ajustados al nuevo ritmo. [Créditos para publicar](entrega/Lunares_y_Denim_Moda_Creditos.txt).
