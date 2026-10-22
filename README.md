@@ -41,6 +41,10 @@ Para descargar, abre el MP4 y pulsa **Download raw file**.
 
 # Conexión con el Alma
 
+[Descargar coaching 4K sin precios](entrega/Conexion_Coaching_4K_sin_precios.mp4)
+
+Versión actualizada sin la frase sobre la inversión total ni las cuotas mensuales. Se retiró el tramo 1:07,10–1:14,70 de la versión ágil, incluidos sus subtítulos. La explicación pasa de «si así lo deseas» a «Puedes acompañar a otros…». Duración aproximada 1:38; se conserva el formato 4K vertical y el resto del montaje.
+
 [Descargar versión 4K con ritmo más ágil (1,12×)](entrega/Conexion_con_el_Alma_hook_4K_agil.mp4)
 
 Duración aproximada: 1:46. Velocidad aumentada un 12 %, conservando el tono de la voz. Subtítulos, gráfico, transiciones y música acelerados de forma conjunta para mantener su sincronización.
